@@ -14,10 +14,10 @@ sidebar:
 
     # Sidebar links
     email: ryan.clair@gmail.com
-    con: 214-552-4758
+    # con: 214-552-4758
     timezone: America/Chicago # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: rycr.io # Include the full website URL, including "http://" or "https://".
+    website: blog.rycr.io # Include the full website URL, including "http://" or "https://".
     linkedin: ryanclair
     # xing: alandoe
     github: ryandotclair
