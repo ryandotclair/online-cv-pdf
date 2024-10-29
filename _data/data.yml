@@ -57,7 +57,8 @@ experiences:
         company: VMware / Broadcom, Remote
         details: |
           Responsibily: Program management and special projects for senior BU leadership.
-          Accomplishments
+          
+          Accomplishments:
             - Drove overall GTM strategy of a joint SaaS solution between VMware and Azure, unlocking 7 additional international Markets. Aligned Sales, Marketing, PnP and Product teams across both companies. Helped prioritize product backlog, allocate marketing budgets, built sales plays, and rolled out global programs for the field. All this led to a 1,152% growth in product usage over 17 months (17% MoM).
             - Managed the MSP/CSP partners for the BU, driving $3M ACV in pipeline in 3 months
             - Grew overall Azure Marketplace business by 800%, including the largest single deal in both company's history.
@@ -67,7 +68,8 @@ experiences:
         company: VMware, Texas
         details: |
           Responsibility: Pre-sales engineer for strategic enterprise customers. Owned technical relationship, pipeline and overall success of assigned customers.
-          Accomplishments
+          
+          Accomplishments:
             - Recognized by peers as a SME for modern apps. Built a training program on an end-to-end Kubernetes/CI CD/ChatOps demo for 100+ SEs
             - Turned 2 Enterprise Accounts around from “we don’t like VMware” to “we love VMware”
             - Consistently met or exceeded quota for 5 years straight, with numerous awards as recognition (Change Agent, EPIC2 award, etc)
@@ -76,7 +78,8 @@ experiences:
         company: EMC, Texas
         details: |
           Responsibility: Pre-sales engineer for strategic enterprise customers. Owned technical relationship, pipeline and overall success of assigned customers.
-          Accomplishments
+          
+          Accomplishments:
             - Earned Platinum Player Award in 2011, Divisional SE of the Year Award in 2013, and the Divisional SE of the Quarter Award in 2014.
             - Architected and sold 2 worldwide multi-petabyte deals, one of which was the company’s largest competitive takeout.
             - Created a storage solution for a Fortune 100 global real-time mapping application.
@@ -84,8 +87,9 @@ experiences:
         time: March 2005 - April 2010
         company: Perot Systems / Dell Services, Texas
         details: |
-          Accomplishments
-            - Oversaw steady-state operations for all Healthcare and Government accounts with IBM storage as a Technical Team Lead
+          Responsibility: Oversaw steady-state operations for all Healthcare and Government accounts with IBM storage as a Technical Team Lead
+
+          Accomplishments:
             - Built a custom application that streamlined the billing process for client storage usage. Application eliminated the manual labor required to generate the billing report.
 
 skills:
