@@ -52,16 +52,16 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Director of Business Strategy and GTM (Tanzu)
-        time: Aug 2021 - Present
+      - role: Director of Business Strategy => Partner GTM Strategy (Tanzu)
+        time: Aug 2021 - Oct 2024
         company: VMware / Broadcom, Remote
         details: |
           Responsibility: Initially special projects and program management for Senior BU leadership. Role evolved to GTM Partner Strategy for Azure, MSP, and CSP routes as needs of business changed.
         
-         Accomplishments:
-           - Drove overall GTM strategy of a joint SaaS solution between VMware and Azure, unlocking 7 additional international Markets. Cross-Functional leader who aligned Sales, Marketing, PnP and Product teams across both companies. Helped prioritize product backlog, allocate marketing budgets, built sales plays, and rolled out global programs for the field. All this led to a 1,152% growth in product usage over 17 months (17% MoM).
-           - Managed the MSP/CSP partners for the BU, with 2 in-direct reports, driving $3M ACV in pipeline in 3 months
-           - Grew overall Azure Marketplace business by 800%, including the largest single deal in both company's history.
+          Accomplishments:
+            - Drove overall GTM strategy of a joint SaaS solution between VMware and Azure, unlocking 7 additional international Markets. Cross-Functional leader who aligned Sales, Marketing, PnP and Product teams across both companies. Helped prioritize product backlog, allocate marketing budgets, built sales plays, and rolled out global programs for the field. All this led to a 1,152% growth in product usage over 17 months (17% MoM).
+            - Managed the MSP/CSP partners for the BU, with 2 in-direct reports, driving $3M ACV in pipeline in 3 months
+            - Grew overall Azure Marketplace business by 800%, including the largest single deal in both company's history.
 
       - role: Senior Staff Solutions Engineer
         time: April 2016 - Aug 2021
