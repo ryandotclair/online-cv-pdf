@@ -41,7 +41,7 @@ sidebar:
 career-profile:
     title: Professional Summary
     summary: |
-      Seasoned technologist (read: 19 years of experience) known for solving tough and poorly defined problems.  I'm a lifelong learner that prefers execution over meetings.  I've closed strategic multi-million dollar deals, increased product adoption of a net-new product over 1,000%, drove $3M ACV in pipeline for a new route in 3 months, and created a lead-to-PO tracking system. Passionate about AI, system design, security, and automating APIs with Python. Let me help you solve your toughest challenges.
+      Seasoned technologist (read: 19 years of experience) known for building trust, having a sharp technical mind and driving the business.  A lifelong learner that prefers execution over meetings.  I've closed historical multi-million dollar deals, increased product adoption of a net-new product over 1,000%, and drove $3M ACV in pipeline for a new route in 3 months. Passionate about AI, system design, security, and automating APIs with Python. Let me help you solve your toughest challenges.
 
 education:
     title: Education
@@ -56,13 +56,13 @@ experiences:
         time: Aug 2021 - Present
         company: VMware / Broadcom, Remote
         details: |
-          Responsibility: Program management and special projects for senior BU leadership.
-          
-          Accomplishments:
-            - Drove overall GTM strategy of a joint SaaS solution between VMware and Azure, unlocking 7 additional international Markets. Aligned Sales, Marketing, PnP and Product teams across both companies. Helped prioritize product backlog, allocate marketing budgets, built sales plays, and rolled out global programs for the field. All this led to a 1,152% growth in product usage over 17 months (17% MoM).
-            - Managed the MSP/CSP partners for the BU, driving $3M ACV in pipeline in 3 months
-            - Grew overall Azure Marketplace business by 800%, including the largest single deal in both company's history.
-            - Centralized propensity lists using OpenAI, and created a lead tracking system for marketing and sales.
+          Responsibility: Initially special projects and program management for Senior BU leadership. Role evolved to GTM Partner Strategy for Azure, MSP, and CSP routes as needs of business changed.
+        
+         Accomplishments:
+           - Drove overall GTM strategy of a joint SaaS solution between VMware and Azure, unlocking 7 additional international Markets. Cross-Functional leader who aligned Sales, Marketing, PnP and Product teams across both companies. Helped prioritize product backlog, allocate marketing budgets, built sales plays, and rolled out global programs for the field. All this led to a 1,152% growth in product usage over 17 months (17% MoM).
+           - Managed the MSP/CSP partners for the BU, with 2 in-direct reports, driving $3M ACV in pipeline in 3 months
+           - Grew overall Azure Marketplace business by 800%, including the largest single deal in both company's history.
+           
       - role: Senior Staff Solutions Engineer
         time: April 2016 - Aug 2021
         company: VMware, Texas
